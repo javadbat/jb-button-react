@@ -1,0 +1,33 @@
+{
+  "name": "jb-button-react",
+  "description": "button react component",
+  "type": "module",
+  "author": {
+		"name": "mohammad javad bathaei",
+		"email": "javadbat@gmail.com"
+	},
+  "keywords": [
+    "jb",
+    "jb-button",
+    "button",
+    "web component",
+    "react button"
+  ],
+  "version": "1.0.0",
+  "bugs": "https://github.com/javadbat/jb-button-react/issues",
+  "license": "MIT",
+  "files": [
+    "LICENSE",
+    "README.md",
+    "lib/",
+    "dist/"
+  ],
+  "main": "index.js",
+  "repository": {
+		"type": "git",
+		"url": "git@github.com:javadbat/jb-button-react.git"
+  },
+  "dependencies": {
+    "jb-button": ">=2.0.1"
+  }
+}
