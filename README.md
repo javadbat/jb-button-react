@@ -15,7 +15,7 @@ sample: <https://codepen.io/javadbat/pen/NWdeMwY>
 ```
 in your jsx file
 ```js
-    import JBButton from "jb-button-rect"
+    import JBButton from "jb-button-react"
 ```
 ``` jsx
     <JBButton></JBButton>
