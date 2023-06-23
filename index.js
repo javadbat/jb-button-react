@@ -1,2 +1,1 @@
-import JBButton from './dist/JBButton.js';
-export default JBButton;
+export {JBButton} from './dist/JBButton.js';
