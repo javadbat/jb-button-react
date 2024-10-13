@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import 'jb-button';
 // eslint-disable-next-line no-duplicate-imports
 import { JBButtonWebComponent } from 'jb-button';
-import { useEvent } from '../../../common/hooks/use-event';
+import { useEvent } from '../../../common/hooks/use-event.js';
 
 declare global {
     // eslint-disable-next-line @typescript-eslint/no-namespace
