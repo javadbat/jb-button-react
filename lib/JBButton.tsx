@@ -1,5 +1,4 @@
 import React, { useEffect, useImperativeHandle, useState } from 'react';
-import PropTypes from 'prop-types';
 import 'jb-button';
 // eslint-disable-next-line no-duplicate-imports
 import { JBButtonWebComponent } from 'jb-button';
@@ -63,12 +62,4 @@ export type JBButtonProps = {
     disabled?: boolean,
     children:any,
 }
-JBButton.propTypes = {
-  type: PropTypes.string,
-  onClick: PropTypes.func,
-  isLoading: PropTypes.bool,
-  className: PropTypes.string,
-  loadingText: PropTypes.string,
-  disabled: PropTypes.bool
-};
 

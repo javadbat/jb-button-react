@@ -13,7 +13,7 @@
     "web component",
     "react button"
   ],
-  "version": "2.0.0",
+  "version": "2.2.1",
   "bugs": "https://github.com/javadbat/jb-button-react/issues",
   "license": "MIT",
   "files": [
@@ -29,6 +29,6 @@
 		"url": "git@github.com:javadbat/jb-button-react.git"
   },
   "dependencies": {
-    "jb-button": ">=2.1.0"
+    "jb-button": ">=2.2.0"
   }
 }
