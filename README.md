@@ -1,5 +1,8 @@
 # JBButton React
 
+> [!WARNING]  
+> this package is deprecated and moved to [jb-button/react](https://github.com/javadbat/jb-button/tree/main/react)
+
 this component is React.js wrapper for [jb-button](https://www.npmjs.com/package/jb-button) web component
 JBButton is a simple button `react component` with some additional feature.
 
